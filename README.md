@@ -1,6 +1,6 @@
 # Project-Euler-6-Sum-Square-Difference-ADA
 
-My solution to the project Euler problem multiples of 3 and 5 using the ADA programming language which is similar to C++
+My solution to the project Euler problem 6 Sum Square Difference using the ADA programming language which is similar to C++
 
 The prompt is
 The sum of the squares of the first ten natural numbers is,
