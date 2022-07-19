@@ -1,0 +1,19 @@
+[GENERATED OBJECT FILE]
+b__main.o
+[PROJECT FILES]
+C:\Users\David Reynolds\Desktop\ADA Practice Projects\Sum Square Diff\default.gpr
+20220308161102 668b8a0d8eba1b2ba287f951d0066fd3
+[BOUND OBJECT FILES]
+C:\Users\David Reynolds\Desktop\ADA Practice Projects\Sum Square Diff\obj\main.o
+[GENERATED SOURCE FILES]
+b__main.ads
+b__main.adb
+b__main.ali
+[RESULTING OPTIONS]
+-LC:\Users\David Reynolds\Desktop\ADA Practice Projects\Sum Square Diff\obj\
+-LC:\Users\David Reynolds\Desktop\ADA Practice Projects\Sum Square Diff\obj\
+-LC:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/libgnat.a
+-Wl,--stack=0x2000000
